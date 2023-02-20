@@ -6,7 +6,7 @@ function Company() {
   return (
     <>
       <Head>
-        <title>Company</title>
+        <title>Company Page</title>
       </Head>
       <Company_Module />
     </>
