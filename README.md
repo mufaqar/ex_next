@@ -1,6 +1,3 @@
-# ex_next
+# Exam Hero
 
-#code By Mufaqar
-
-#code 2
-
+https://examhero.vercel.app

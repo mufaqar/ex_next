@@ -1,0 +1,11 @@
+export {default as Bag} from './bag.svg'
+export {default as Achievement} from './achievement.svg'
+export {default as Cultivation} from './Cultivation.svg'
+export {default as Handshake} from './handshake.svg'
+export {default as Innovation} from './innovation.svg'
+export {default as Learning} from './learning.svg'
+export {default as Ebook} from './ebook.svg'
+export {default as Mockpaper} from './mockpaper.svg'
+export {default as SchoolUse} from './schooluse.svg'
+export {default as Benefit} from './benefit.svg'
+
